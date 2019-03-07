@@ -3,12 +3,16 @@ layout: post
 title:  "Best Supplements for your workout"
 author: cesar
 categories: [ Jekyll, tutorial ]
+featured: true
+hidden: true
 image: assets/images/3.jpg
 ---
 
 Workout supplements
 
-### Creatine Monohydrate 
+df
+
+## Creatine Monohydrate 
 
 <ul>
 <li> j </li>
