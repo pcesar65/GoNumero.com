@@ -14,7 +14,7 @@ image: assets/images/3.jpg
 <li> j </li>
 
 
-Amazon: <a href="https://amzn.to/2HmyLNh">Creatine</a>!
+Amazon: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>!
 
 
 <h4 id="Goal" class="mt-4">L-mnjn</h4>
