@@ -2,9 +2,9 @@
 layout: post
 title:  "Santa Barbara Bars "
 author: cesar
-categories: [ Jekyll, tutorial ]
+categories: [ Bars, Tourism ]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Santa Barbara Bars from a local."
 featured: true
 hidden: true
 rating: 4.5
