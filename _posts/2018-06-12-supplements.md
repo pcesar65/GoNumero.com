@@ -15,7 +15,7 @@ There are lots of powerful things you can do with the Markdown editor. If you've
 As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
 
 
-## Special formatting
+## Creatine Monohydrate
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
 
