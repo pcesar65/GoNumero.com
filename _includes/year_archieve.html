@@ -1,8 +1,6 @@
 <!-- Archive listing posts by year -->
 
-</div>
 <div class="row listrecent">
-<ul class="archive">
   {% for post in site.posts %}
     {% unless post.next %}
         <h5>{{ post.date | date: '%Y' }}</h5>
@@ -16,4 +14,3 @@
     {% include postbox.html %}
    <!-- <li><span class="date">{{ post.date | date:"%d. %b" }}</span> <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">{{ post.title }}</a></li>-->
   {% endfor %}
-  </div>
