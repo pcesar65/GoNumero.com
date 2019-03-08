@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/log.png'
 baseurl: 
 google_analytics: 'UA-134656098-2'
-disqus: ''
+disqus: 'gonumero-com'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
