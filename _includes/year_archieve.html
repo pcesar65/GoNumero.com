@@ -1,16 +1,7 @@
 <!-- Archive listing posts by year -->
 
-<div class="row listrecent">
   {% for post in site.posts %}
-    {% unless post.next %}
-        <h5>{{ post.date | date: '%Y' }}</h5>
-    {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-            <h5>{{ post.date | date: '%Y' }}</h5>
-        {% endif %}
-    {% endunless %}
-    {% include postbox.html %}
-   <!-- <li><span class="date">{{ post.date | date:"%d. %b" }}</span> <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">{{ post.title }}</a></li>-->
+     {% if post.type == "tourist" %}
+  <div class="row listrecent">
+     {% include postbox.html %}
   {% endfor %}
