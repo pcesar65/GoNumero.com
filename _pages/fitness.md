@@ -5,10 +5,6 @@ permalink: /fitness
 comments: true
 ---
 
-#### by Month
+#### by year
 {% include year_archieve.html %}
 
-
-{% for post in site.categories[1] %}
-  {% include postbox.html %}
-{% endfor %}
