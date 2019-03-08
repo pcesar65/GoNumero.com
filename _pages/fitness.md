@@ -5,4 +5,4 @@ permalink: /fitness
 comments: true
 ---
 
-  <a class="smoothscroll" href="{{site.baseurl}}/categories.html#fitness">{{ category }}</a>
+  <a class="smoothscroll" href="{{site.baseurl}}/categories.html#fitness">{{ fitness }}</a>
