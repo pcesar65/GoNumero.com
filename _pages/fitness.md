@@ -5,3 +5,5 @@ permalink: /fitness
 comments: false
 ---
 
+{% for post in site.posts %}
+    {% if post.category == "fitness" %}
