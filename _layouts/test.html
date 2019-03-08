@@ -1,3 +1,9 @@
-{% for category in categories_list %}
-                    <a href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
-                {% endfor %}
+---
+title: "Test"
+layout: default
+permalink: "/test.html"
+---
+
+        {% for category in categories_list %}
+         <a href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+           
