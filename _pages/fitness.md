@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: page
 title: Fitness
 permalink: /fitness
 comments: true
