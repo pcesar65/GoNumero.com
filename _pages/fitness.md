@@ -5,4 +5,8 @@ permalink: /fitness
 comments: true
 ---
 
- <% include postbox.html %>
+<li class="ml-1 mr-1">
+    <a target="_blank" href="#">
+    <i class="fab fa-twitter"></i>
+    </a>
+</li>
