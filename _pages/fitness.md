@@ -5,8 +5,4 @@ permalink: /fitness
 comments: true
 ---
 
-<
- {% for category in categories_list %}                        
-                    <a href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
-                {% endfor %}
- >
+ <% include postbox.html %>
