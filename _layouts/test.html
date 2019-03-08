@@ -4,6 +4,7 @@ layout: default
 permalink: "/test.html"
 ---
 
-        {% for category in categories_list %}
-         <a href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
-           
+    {% for category in categories_list %}
+  <a class="smoothscroll" href="{{site.baseurl}}/categories.html#fitness">{{ category }}</a>
+    
+       
