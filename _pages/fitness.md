@@ -9,6 +9,6 @@ comments: true
 {% include year_archieve.html %}
 
 
-{% for post in site.categories[fitness] %}
+{% for post in site.categories[1] %}
   {% include postbox.html %}
 {% endfor %}
