@@ -2,9 +2,8 @@
 layout: page
 title: Fitness
 permalink: /fitness
-comments: true
+comments: false
 ---
 
-#### by year
 {% include year_archieve.html %}
 
