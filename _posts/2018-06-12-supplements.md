@@ -66,9 +66,9 @@ Recommendation: <a href="https://amzn.to/2IWrBSE">L-Citrulline DL-Malate 2:1 Pow
 
 <div id="amzn-assoc-ad-f30b4ef0-2205-43e9-89cf-7fbc78018b1e"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=f30b4ef0-2205-43e9-89cf-7fbc78018b1e"></script>
 
-<small>Last but not least, L-carnitine has been show to reduce both mental and physical fatigue during exercise in the elderly, but not in young, healthy people.</small> 
+<small>Last but not least, L-carnitine has been show to reduce both mental and physical fatigue during exercise in the elderly, but not in young, healthy people.[6]</small> 
 
-+ <small>L-carnitine probably isn’t going to improv your exercise performance.[6] </small>
++ <small>L-carnitine probably isn’t going to improve your exercise performance. </small>
 
 Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Powder</a>
 
@@ -81,14 +81,20 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
   <img src="http://muaythaipros.com/wp-content/uploads/2014/02/beta-alanine.jpg" style="width:300px;height:200px;margin-right:20px;float: right;">
  <b> How does Beta Alanine work?</b>
 
-<small>While exercising, muscle contracts causing more acid accumulating in the muscle making you feel the burn. The build-up of acid impairs the ability of your muscles to keep contracting and causing you to end your training set.</small>
+<small>While exercising, muscle contracts causing  acid accumulating the build-up of acid impairs the ability of your muscles to keep contracting and causing you to end your training set. Carnosine serves as an acid buffer and helps counteract this acid build up, which increases the amount of work your muscles can do before they become fatigued.[7] In order to increase carnosine in your muscles you need Beta-alanine.</small>
   
  <div id="amzn-assoc-ad-fe05528c-3d49-46dc-a8a9-336378252f6e"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fe05528c-3d49-46dc-a8a9-336378252f6e"></script>
 
+<small>Intense workouts without the adequate amounts of non-essential amino acid can't produce carnosine efficiently and you are limited to a slow time recovery and less gains. </small>
+> <small> research has shown that supplementation with beta-alanine is incredibly effective for increasing muscle carnosine levels.[8]</small>
 
++ <small>Greater Endurance </small>
++ <small>Increase Strength </small>
++ <small>Supports Muscle Growth </small>
 
-
-
+<b>Side Effets</b>
+<small> When consumed, you get paresthesia (tingles) usually the first time you take it similar to pre-workout. That's because Beta-Alanine is one of the few proven commodities in pre-workout supplements that deliver results. ITS A MUST. Next time you buy pre-workout check the ingredients.  The paresthesia is harmless and will eventually go away once you reach saturation. No other side effects
+ 
 Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 
 ## Pure Whey Protein Isolate 
@@ -112,5 +118,9 @@ supplementation. Sports Medicine 18: 268–80.</small>
 <small>Glenn, J. M., Gray, M., Jensen, A., Stone, M. S., & Vincenzo, J. L. (2016). Acute citrulline-malate supplementation improves maximal strength and anaerobic power in female, masters athletes tennis players. European Journal of Sport Science, 1-9.</small>
 
 <small> Matthews, Mike. Everything You Need to Know About L-Carnitine. 03/08/19 </small>
+
+<small>Ament, W., & Verkerke, G. J. (2009). Exercise and fatigue. Sports Medicine (Auckland, N.Z.), 39(5), 389–422.</small>
+
+<small>Hoffman JR, Landau G, Stout JR, et al. β-Alanine ingestion increases muscle carnosine content and combat specific performance in soldiers. Amino Acids. 2015;47(3):627-636. doi:10.1007/s00726-014-1896-7.</small>
 
 
