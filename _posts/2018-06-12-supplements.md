@@ -31,15 +31,15 @@ presenting different diseases. </small></p>
 <div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script>
 
 <b>Note:</b>
-> <p><small>The ingestion of Cr together with other food supplements can promote and enhance its effect as ergogenic
+><p><small>The ingestion of Cr together with other food supplements can promote and enhance its effect as ergogenic
 dietary complement. It has been described that the ingestion of carbohydrate with Cr enhances intramuscular Cr uptake and glycogen deposition (Green et¡al. 1996a,b), whereas ingestion of glucose
-  and sodium with Cr would theoretically provide additional ergogenic effect. </small></p>
+ and sodium with Cr would theoretically provide additional ergogenic effect. </small></p>
 
 <p><small> Supplementation of creatine monohydrate in the diet increases Cr and PCr cellular levels in muscle
 tissue enhancing muscular strength. The most obvious effects of Cr are observed after several weeks of
-supplementation in combination with a resistance exercise program. (6/g a day) 
+supplementation in combination with a resistance exercise program. (6/g a day) <small>
 
-Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a></small>
+<small> Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a></small>
 
 
 ## L-Citrulline DL-Malete 2:1 
