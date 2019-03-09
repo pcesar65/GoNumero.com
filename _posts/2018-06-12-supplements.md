@@ -75,7 +75,13 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
 
 ## Beta Alanine 
 
-<small>Beta Alanine is one of my favorite pre-workout supplements with L-Citrulline</small>
+<small>Beta Alanine is one of my favorite pre-workout supplements with L-Citrulline. Its a non-essential amino acid that is produced naturally in the body. Beta-alanine aid in the production of carnosine. That's a compound that plays a role in muscle endurance in high-intensity.</small>
+
+
+  <img src="http://muaythaipros.com/wp-content/uploads/2014/02/beta-alanine.jpg" style="width:225px;height:200px;margin-right:90px;float: right;">
+
+<small>Alanine works 
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xpM99OmUZY8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
