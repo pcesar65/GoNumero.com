@@ -28,6 +28,8 @@ characterized by atrophic conditions, weakness, and metabolic disturbances. Thus
 nutritional supplement used not only by athletes, but also by elderly people as well as aged patients
 presenting different diseases.
 
+<p><small>The content is licensed under a Creative Commons Attribution-ShareAlike 2.5 Generic License.</small></p>
+
 Cr is a nitrogenous organic acid that is naturally synthesized in the liver, kidneys, and pancreas from
 three amino acids—glycine, arginine, and methionine. 
 <div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script>
