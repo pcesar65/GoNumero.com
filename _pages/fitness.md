@@ -1,6 +1,6 @@
 ---
 layout: fitness
 title: Fitness
-permalink: /fitness
+permalink: /archives/tag/:fitness/
 comments: false
 ---
