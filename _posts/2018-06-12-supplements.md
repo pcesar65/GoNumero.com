@@ -10,9 +10,9 @@ hidden: true
 image: assets/images/3.jpg
 ---
 
-<p><small>People usually get discourage at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thumb, weight loss is generally 75 percent diet and 25 percent exercise. 
+<p><small>People usually get discourage at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thumb, weight loss is generally 75 percent diet and 25 percent exercise. </P></small>
 
-In recent years, much attention has been paid to the search of natural substances in foods that can be
+<p><small>In recent years, much attention has been paid to the search of natural substances in foods that can be
 benecial to the human body in preventing or treating one or more diseases or improving its physiological
 performance.This research has been taken from the University of California Database and UCSB athletes. This are our recommendations for a faster and healthy aesthetic body. </small></p>
 
