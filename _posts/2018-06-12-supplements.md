@@ -2,7 +2,7 @@
 layout: post
 title:  "Best Supplements for your workout"
 author: cesar
-categories: [ Fitness ]
+categories: [ fitness ]
 archieve: true
 featured: true
 tag: fitness
