@@ -81,10 +81,10 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
   <img src="http://muaythaipros.com/wp-content/uploads/2014/02/beta-alanine.jpg" style="width:225px;height:200px;margin-right:90px;float: right;">
 
 <small>Alanine works 
+  
+ <div id="amzn-assoc-ad-fe05528c-3d49-46dc-a8a9-336378252f6e"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fe05528c-3d49-46dc-a8a9-336378252f6e"></script>
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xpM99OmUZY8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
