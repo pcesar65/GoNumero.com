@@ -92,12 +92,13 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
 + <small>Increase Strength </small>
 + <small>Supports Muscle Growth </small>
 
-<b>Side Effets</b>
-<small> When consumed, you get paresthesia (tingles) usually the first time you take it similar to pre-workout. That's because Beta-Alanine is one of the few proven commodities in pre-workout supplements that deliver results. ITS A MUST. Next time you buy pre-workout check the ingredients.  The paresthesia is harmless and will eventually go away once you reach saturation. No other side effects
+<b>Side Effets: </b>
+<small> When consumed, you get paresthesia (tingles) usually the first time you take it similar to pre-workout. That's because Beta-Alanine is one of the few proven commodities in pre-workout supplements that deliver fast results. Next time you buy pre-workout check the ingredients.  
  
 Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 
-## Pure Whey Protein Isolate 
+## Whey Protein
+
 
 <div id="amzn-assoc-ad-fa19bfe7-9e28-441e-b7f2-0939aa944c59"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fa19bfe7-9e28-441e-b7f2-0939aa944c59"></script>
 
