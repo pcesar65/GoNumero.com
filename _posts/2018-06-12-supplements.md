@@ -63,6 +63,8 @@ Recommendation: <a href="https://amzn.to/2IWrBSE">L-Citrulline DL-Malate 2:1 Pow
 
 <small>Supplementation with L-carnitine has directly improved muscle growth is in the elderly and that was due to correcting a deficiency. Thus, it’s safe to assume that we wouldn’t see the same effects in those of us with normal carnitine levels.</small>
 
+<div id="amzn-assoc-ad-f30b4ef0-2205-43e9-89cf-7fbc78018b1e"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=f30b4ef0-2205-43e9-89cf-7fbc78018b1e"></script>
+
 <small>Last but not least, L-carnitine has been show to reduce both mental and physical fatigue during exercise in the elderly, but not in young, healthy people.</small> 
 
 + <small>L-carnitine probably isn’t going to improv your exercise performance.[6] </small>
