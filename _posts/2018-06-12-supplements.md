@@ -43,12 +43,16 @@ Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Mi
 
 + <small> Improved circulation   </small>
 + <small> Bigger "pumps" (Increase Bicep Vascularity)  </small>
-+ <p><small> More muscle endurance   </small></p>
-+ <p><small> Higher energy in your workouts and less fatigue   </small></p>
-+ <p><small> Decrease muscle soreness   </small></p>
++ <small> More muscle endurance   </small>
++ <small> Higher energy in your workouts and less fatigue   </small>
++ <small> Decrease muscle soreness   </small>
+
+<small> Citrulline helps boosts nitric-oxide levels, which can help dilate your blood vessels, allowing more oxygen and nutrients to be delievedto your muscles. 
 
 
 <div id="amzn-assoc-ad-e57450d0-d647-4170-b574-f0c1fdf9df72"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=e57450d0-d647-4170-b574-f0c1fdf9df72"></script>
+
+Malate serves as an important component in the tricarboxylic cycle which is one way your body produces fuel. When you increase malate levels, you increase energy production. Therefore, citrulline malate brings additional blood—and subsequently, oxygen and nutrients—to exercising muscles, as well as providing increased energy to boost performance levels. According to bodybuilding.com and European Journal of Sport Science states that consuming 8 grams of citrulline malate before exercise resulted in increased maximal grip strength and improved lower-body explosive power.[5]
 
 Recommendation: <a href="https://amzn.to/2IWrBSE">L-Citrulline DL-Malate 2:1 Powder by BulkSupplements</a>
 
@@ -65,3 +69,22 @@ Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 ## Pure Whey Protein Isolate 
 
 <div id="amzn-assoc-ad-fa19bfe7-9e28-441e-b7f2-0939aa944c59"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fa19bfe7-9e28-441e-b7f2-0939aa944c59"></script>
+
+
+### REFERENCES
+Ally, A. and Park, G. 1992. Rapid-determination of creatine, phosphocreatine, purine-bases and nucleotides
+(Atp, Adp, Amp, Gtp, Gdp) in heart biopsies by gradient ion-pair reversed-phase liquid-chromatography.
+Journal of Chromatography-Biomedical Applications 575: 19–27.
+
+Association of Ofcial Analytical Chemists. 1984. In: S. Williams (Ed.), AOAC Ofcial Methods of Analysis,
+16th edn. Vol 2, pp 39-1 to 39-23. Arlington, VA: AOAC.
+
+Balsom, P.D., Soderlund, K., and Ekblom, B. 1994. Creatine in humans with special reference to creatine
+supplementation. Sports Medicine 18: 268–80.
+
+Bailey, S. J., Blackwell, J. R., Lord, T., Vanhatalo, A., Winyard, P. G., & Jones, A. M. (2015). L-citrulline supplementation improves O2 uptake kinetics and high-intensity exercise performance in humans. Journal of Applied Physiology, 119(4), 385-395.
+
+5:
+Glenn, J. M., Gray, M., Jensen, A., Stone, M. S., & Vincenzo, J. L. (2016). Acute citrulline-malate supplementation improves maximal strength and anaerobic power in female, masters athletes tennis players. European Journal of Sport Science, 1-9.
+
+
