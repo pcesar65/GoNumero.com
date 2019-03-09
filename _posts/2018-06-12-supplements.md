@@ -16,12 +16,6 @@ This research has been taken from the University of California Database and UCSB
 
 
 
-## Creatine Monohydrate
-
-<li> Coming soon... 3/12/19</li>
-Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>
-
-
 ## Creatine Monohydrate 
 
 
