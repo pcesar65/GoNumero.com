@@ -1,5 +1,5 @@
 ---
-layout: achieve
+layout: achive
 title: Fitness
 permalink: /fitness
 comments: false
