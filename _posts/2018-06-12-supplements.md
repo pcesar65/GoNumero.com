@@ -40,12 +40,13 @@ Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Mi
 ## L-Citrulline DL-Malete 2:1 
 
 <p><small> Supplementing with L-citrulline can improve both your resistance and endurance training. The main reasons why people supplement with L-citrulline are improving heart health, blood flow, endurance, boosting muscle growth and recovery.</small></p>
-
+<small>
 + Improved circulation 
 + Bigger "pumps" (Increase Bicep Vascularity)
 + More muscle endurance 
 + Higher energy in your workouts and less fatigue 
 + Decrease muscle soreness 
+  </small>
 
 <div id="amzn-assoc-ad-e57450d0-d647-4170-b574-f0c1fdf9df72"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=e57450d0-d647-4170-b574-f0c1fdf9df72"></script>
 
