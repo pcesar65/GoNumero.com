@@ -51,8 +51,10 @@ Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Mi
 
 <small> Citrulline helps boosts nitric-oxide levels, which can help dilate your blood vessels, allowing more oxygen and nutrients to be delievedto your muscles. 
 
-
-<div id="amzn-assoc-ad-e57450d0-d647-4170-b574-f0c1fdf9df72"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=e57450d0-d647-4170-b574-f0c1fdf9df72"></script>
+img {
+  float: right;
+}
+<img id="amzn-assoc-ad-e57450d0-d647-4170-b574-f0c1fdf9df72"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=e57450d0-d647-4170-b574-f0c1fdf9df72"></script>
 
 <small>Malate serves as an important component in the tricarboxylic cycle which is one way your body produces fuel. When you increase malate levels, you increase energy production. Therefore, citrulline malate brings additional blood—and subsequently, oxygen and nutrients—to exercising muscles, as well as providing increased energy to boost performance levels. According to bodybuilding.com and European Journal of Sport Science states that consuming 8 grams of citrulline malate before exercise resulted in increased maximal grip strength and improved lower-body explosive power.[5]</small>
 
