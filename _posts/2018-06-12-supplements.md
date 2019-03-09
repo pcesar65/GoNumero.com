@@ -7,7 +7,7 @@ archieve: true
 featured: true
 tag: fitness
 hidden: true
-image: assets/images/3.jpg
+image: "https://nobullnutrition.co/wp-content/uploads/2016/05/DSC_5937.jpg"
 ---
 
 <p><small>People usually get discourage at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thumb, weight loss is generally 75 percent diet and 25 percent exercise. </small></p>
