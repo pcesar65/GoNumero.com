@@ -41,8 +41,8 @@ Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Mi
 <p><small> Citrulline Malete is the supplemental form of the non-essential amino acid citrulline. Non-essential doesn't mean this amino acid is pointless, it simply means that your body creates it naturally. The main reasons why people supplement with L-citrulline are improving heart health, blood flow, endurance, boosting muscle growth and recovery. Research shows that that supplementing your workouts and training with L-Citrulline Malate form can improve your performance and recovery. Below are some key bullet points on the effects of L-Cit </small></p>
 
 
-+ <p><small> Improved circulation   </small></p>
-+ <p><small> Bigger "pumps" (Increase Bicep Vascularity)  </small></p>
++ <small> Improved circulation   </small>
++ <small> Bigger "pumps" (Increase Bicep Vascularity)  </small>
 + <p><small> More muscle endurance   </small></p>
 + <p><small> Higher energy in your workouts and less fatigue   </small></p>
 + <p><small> Decrease muscle soreness   </small></p>
