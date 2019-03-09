@@ -59,6 +59,14 @@ Recommendation: <a href="https://amzn.to/2IWrBSE">L-Citrulline DL-Malate 2:1 Pow
 
 ## L-Carnitine 
 
+<small> This is not a recommendation but I usually like putting this on my top list since L-carnitine is necessary for fat burning. This supplement only helps elderly or people that don’t eat meat. </small>
+
+<small>Supplementation with L-carnitine has directly improved muscle growth is in the elderly and that was due to correcting a deficiency. Thus, it’s safe to assume that we wouldn’t see the same effects in those of us with normal carnitine levels.</small>
+
+<small>Last but not least, L-carnitine has been show to reduce both mental and physical fatigue during exercise in the elderly, but not in young, healthy people.</small> 
+
++ <small>L-carnitine probably isn’t going to improv your exercise performance.[6] </small>
+
 Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Powder</a>
 
 
@@ -85,5 +93,7 @@ supplementation. Sports Medicine 18: 268–80.</small>
 <small>Bailey, S. J., Blackwell, J. R., Lord, T., Vanhatalo, A., Winyard, P. G., & Jones, A. M. (2015). L-citrulline supplementation improves O2 uptake kinetics and high-intensity exercise performance in humans. Journal of Applied Physiology, 119(4), 385-395.</small>
 
 <small>Glenn, J. M., Gray, M., Jensen, A., Stone, M. S., & Vincenzo, J. L. (2016). Acute citrulline-malate supplementation improves maximal strength and anaerobic power in female, masters athletes tennis players. European Journal of Sport Science, 1-9.</small>
+
+<small> Matthews, Mike. Everything You Need to Know About L-Carnitine. 03/08/19 </small>
 
 
