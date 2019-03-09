@@ -5,4 +5,4 @@ permalink: /entertainment
 comments: false
 ---
 <div class="row listrecent"> 
-{% for post in site.categories.tutorial%} {% include postbox.html %} {% endfor %}
+{% for post in site.categories.entertainment%} {% include postbox.html %} {% endfor %}
