@@ -30,6 +30,9 @@ presenting different diseases.
 
 Cr is a nitrogenous organic acid that is naturally synthesized in the liver, kidneys, and pancreas from
 three amino acids—glycine, arginine, and methionine. 
+> The ingestion of Cr together with other food supplements can promote and enhance its effect as ergogenic
+dietary complement. It has been described that the ingestion of carbohydrate with Cr enhances intramuscular Cr uptake and glycogen deposition (Green et¡al. 1996a,b), whereas ingestion of glucose
+and sodium with Cr would theoretically provide additional ergogenic effect.
 
 <div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script>
 
