@@ -11,7 +11,9 @@ comments: false
 <p>We are GoNumero</p>
 
 
-<h4 id="Goal" class="mt-4">Features</h4>
+<h4 id="Goal" class="mt-4">Coming Soon</h4>
+
++ Authors will have personal GoNumero portfolio. 
 
 <ul>
 <li>Our goal for GoNumero is to entertain you with our latest blogs, news, finance, tourism, politics and much more</li>
