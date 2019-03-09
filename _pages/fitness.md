@@ -4,3 +4,5 @@ title: Fitness
 permalink: /fitness
 comments: false
 ---
+
+{% include tag_archive.html %}
