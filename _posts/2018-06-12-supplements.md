@@ -28,7 +28,7 @@ characterized by atrophic conditions, weakness, and metabolic disturbances. Thus
 nutritional supplement used not only by athletes, but also by elderly people as well as aged patients
 presenting different diseases. </small></p>
 
-<div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script>
+<small><div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script></small>
 
 <b>Note:</b>
 > <p><small>The ingestion of Cr together with other food supplements can promote and enhance its effect as ergogenic
