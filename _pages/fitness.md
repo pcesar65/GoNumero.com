@@ -5,4 +5,4 @@ permalink: /fitness
 comments: false
 ---
 
-{% include tag_archieve %}
+{% include tag_archieve.html %}
