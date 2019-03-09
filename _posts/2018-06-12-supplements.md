@@ -46,7 +46,7 @@ Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Mi
 + More muscle endurance 
 + Higher energy in your workouts and less fatigue 
 + Decrease muscle soreness 
-  </p></small>
+  </small></p>
 
 <div id="amzn-assoc-ad-e57450d0-d647-4170-b574-f0c1fdf9df72"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=e57450d0-d647-4170-b574-f0c1fdf9df72"></script>
 
