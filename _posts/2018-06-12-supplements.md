@@ -19,21 +19,18 @@ performance.This research has been taken from the University of California Datab
 
 ## Creatine Monohydrate 
 
-Creatine (N-[aminoiminomethyl]-N-methyl glycine, Cr) is a nonessential dietary element
+<p><small>Creatine (N-[aminoiminomethyl]-N-methyl glycine, Cr) is a nonessential dietary element
 found in high abundance in meat and fish. Currently, Cr is widely used as an ergogenic nutritional supplement
 by athletes, and it is well tolerated in this specic sector of consumers. It has been estimated that
 more than one-third of athletes regularly use Cr to improve muscular performance. On the other hand,
 recent  findings have indicated that Cr supplementation has a therapeutic role in preventing several diseases
 characterized by atrophic conditions, weakness, and metabolic disturbances. Thus, Cr is an emerging
 nutritional supplement used not only by athletes, but also by elderly people as well as aged patients
-presenting different diseases.
+presenting different diseases. </small></p>
 
-<p><small>The content is licensed under a Creative Commons Attribution-ShareAlike 2.5 Generic License.</small></p>
-
-Cr is a nitrogenous organic acid that is naturally synthesized in the liver, kidneys, and pancreas from
-three amino acids—glycine, arginine, and methionine. 
 <div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script>
 
+NOTE
 > The ingestion of Cr together with other food supplements can promote and enhance its effect as ergogenic
 dietary complement. It has been described that the ingestion of carbohydrate with Cr enhances intramuscular Cr uptake and glycogen deposition (Green et¡al. 1996a,b), whereas ingestion of glucose
 and sodium with Cr would theoretically provide additional ergogenic effect.
