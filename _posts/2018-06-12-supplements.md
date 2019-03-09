@@ -77,7 +77,8 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
 
 <small>Beta Alanine is one of my favorite pre-workout supplements with L-Citrulline</small>
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=xpM99OmUZY8" frameborder="0" allowfullscreen></iframe></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xpM99OmUZY8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
