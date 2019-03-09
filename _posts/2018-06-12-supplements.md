@@ -10,15 +10,28 @@ hidden: true
 image: assets/images/3.jpg
 ---
 
-People usually get discourage at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thump, weight loss is generally 75 percent diet and 25 percent exercise. 
+People usually get discourage at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thumb, weight loss is generally 75 percent diet and 25 percent exercise. 
 
-This research has been taken from the University of California Database and UCSB athletes. This are our recommendations for a faster and healthy aesthetic body. 
-
+In recent years, much attention has been paid to the search of natural substances in foods that can be
+benecial to the human body in preventing or treating one or more diseases or improving its physiological
+performance.This research has been taken from the University of California Database and UCSB athletes. This are our recommendations for a faster and healthy aesthetic body. 
 
 
 ## Creatine Monohydrate 
 
+Creatine (N-[aminoiminomethyl]-N-methyl glycine, Cr) is a nonessential dietary element
+found in high abundance in meat and fish. Currently, Cr is widely used as an ergogenic nutritional supplement
+by athletes, and it is well tolerated in this specic sector of consumers. It has been estimated that
+more than one-third of athletes regularly use Cr to improve muscular performance. On the other hand,
+recent  findings have indicated that Cr supplementation has a therapeutic role in preventing several diseases
+characterized by atrophic conditions, weakness, and metabolic disturbances. Thus, Cr is an emerging
+nutritional supplement used not only by athletes, but also by elderly people as well as aged patients
+presenting different diseases.
 
+Cr is a nitrogenous organic acid that is naturally synthesized in the liver, kidneys, and pancreas from
+three amino acids—glycine, arginine, and methionine. 
+
+<div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script>
 
 Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>
 
