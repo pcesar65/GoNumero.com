@@ -1,6 +1,6 @@
 ---
-layout: fitness
+layout: archieve
 title: Fitness
-permalink: /archives
+permalink: /fitness
 comments: false
 ---
