@@ -80,6 +80,7 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
 
   <img src="http://muaythaipros.com/wp-content/uploads/2014/02/beta-alanine.jpg" style="width:300px;height:200px;margin-right:20px;float: right;">
  <b> How does Beta Alanine work?</b>
+
 <small>While exercising, muscle contracts causing more acid accumulating in the muscle making you feel the burn. The build-up of acid impairs the ability of your muscles to keep contracting and causing you to end your training set.</small>
   
  <div id="amzn-assoc-ad-fe05528c-3d49-46dc-a8a9-336378252f6e"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fe05528c-3d49-46dc-a8a9-336378252f6e"></script>
