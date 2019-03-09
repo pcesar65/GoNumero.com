@@ -30,7 +30,13 @@ Head over to our <a href="https://github.com/pcesar65/GoNumeroTEST">Github repos
 
 <p>Thank you for your support! Your donation helps us to maintain and improve <a target="_blank" href="https://github.com/pcesar65/GoNumeroTEST">GoNumero <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="KEDKP3WRRSUCE" />
+<input type="image" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 </div>
 </div>
