@@ -5,6 +5,7 @@ author: cesar
 categories: [ Fitness ]
 archieve: true
 featured: true
+tag: fitness
 hidden: true
 image: assets/images/3.jpg
 ---
