@@ -8,4 +8,4 @@ featured: true
 hidden: true
 ---
 
-Candle Sticks baby :P
+<a class="nav-link" href="https://www.yumpu.com/en/document/read/59281619/candlestick-cheat-sheet-rgb-final.pdf"><i class="fas fa-download"></i> Download</a>
