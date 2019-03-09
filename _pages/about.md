@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">    
 
-<p>GoNumero</p>
+<p>We are GoNumero</p>
 
 
 <h4 id="Goal" class="mt-4">Features</h4>
@@ -21,7 +21,6 @@ comments: true
 
 Head over to our <a href="https://github.com/pcesar65/GoNumeroTEST">Github repository</a>!
 
-</div>
 
 <div class="col-md-4">
     
