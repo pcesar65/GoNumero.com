@@ -19,30 +19,30 @@ This research has been taken from the University of California Database and UCSB
 ## Creatine Monohydrate
 
 <li> Coming soon... 3/12/19</li>
-Amazon: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>
+Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>
 
 
 ## Creatine Monohydrate 
 
 
 
-Amazon: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>
+Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>
 
 
 ## L-Citrulline DL-Malete 2:1 
 
 
-Amazon: <a href="https://amzn.to/2IWrBSE">L-Citrulline DL-Malate 2:1 Powder by BulkSupplements</a>
+Recommendation: <a href="https://amzn.to/2IWrBSE">L-Citrulline DL-Malate 2:1 Powder by BulkSupplements</a>
 
 
 ## L-Carnitine 
 
-Amazon: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Powder</a>
+Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Powder</a>
 
 
 ## Beta Alanine 
 
-Amazon: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
+Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 
 ## Pure Whey Protein Isolate 
 
