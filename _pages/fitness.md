@@ -1,5 +1,5 @@
 ---
-layout: achive
+layout: archive
 title: Fitness
 permalink: /fitness
 comments: false
