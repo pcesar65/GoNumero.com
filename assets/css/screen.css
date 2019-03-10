@@ -288,6 +288,11 @@ License: https://www.wowthemes.net/freebies-license/
  .svgIcon {
      vertical-align:middle;
 }
+.image-centered
+{
+margin: 0 auto;
+display: block;
+}
  @media (min-width:1024px) {
      .share {
          position:fixed;
