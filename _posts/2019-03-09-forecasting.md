@@ -42,6 +42,6 @@ close to the true value in the original dataset from September 1974 to October 1
 <small>Our original dataset consists of monthly employment data from January 1961 to October 1975 in which we
 decided to removed the last 14 data points in order to compare forecasting accuracy. On Figure 1 below you can see the fixed plot of the employment in Wisconsin with a sample size of 164 months in total.</small>
 
-![intro forecast]({{ site.baseurl }}/assets/images/3.jpg)
+![intro forecast]({{ site.baseurl }}/assets/images/forecast/1.jpg)
 
 
