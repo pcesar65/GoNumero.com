@@ -62,7 +62,7 @@ time series model.</small>
 3: Log Likelihood Box-Transformation,  falls between 0 which makes the Box-Cox variable indeterminate
 form 0/0. That being the case, rewriting the Box-Cox formula gives us </small>
 
-![intro forecast]({{ site.baseurl }}/assets/images/forecast/3.jpg){:height="250px" width="500px"}{:class="image-centered"}
+![formula]({{ site.baseurl }}/assets/images/forecast/3.jpg){:height="100px" width="300px"}{:class="image-centered"}
 
 
 
