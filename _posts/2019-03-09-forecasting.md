@@ -44,3 +44,4 @@ decided to removed the last 14 data points in order to compare forecasting accur
 
 ![intro forecast]({{ site.baseurl }}/assets/images/forecast1.jpg)
 
+
