@@ -78,7 +78,7 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
 <small>Beta Alanine is one of my favorite pre-workout supplements with L-Citrulline. Its a non-essential amino acid that is produced naturally in the body. <b>Your body uses beta-alanine to synthesize another amino acid called carnosine</b>. That's a compound that plays a role in muscle endurance in high-intensity.</small>
 
 
-  <img src="http://muaythaipros.com/wp-content/uploads/2014/02/beta-alanine.jpg" style="width:300px;height:200px;margin-right:20px;float: right;">
+  <img src="http://muaythaipros.com/wp-content/uploads/2014/02/beta-alanine.jpg" style="width:300px;height:200px;margin-right:10px;float: right;">
  <b> How does Beta Alanine work?</b>
 
 <small>While exercising, muscle contracts causing  acid accumulating the build-up of acid impairs the ability of your muscles to keep contracting and causing you to end your training set. Carnosine serves as an acid buffer and helps counteract this acid build up, which increases the amount of work your muscles can do before they become fatigued.[7] In order to increase carnosine in your muscles you need Beta-alanine.</small>
@@ -93,14 +93,19 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
 + <small>Supports Muscle Growth </small>
 
 <b>Side Effets: </b>
-<small> When consumed, you get paresthesia (tingles) usually the first time you take it similar to pre-workout. That's because Beta-Alanine is one of the few proven commodities in pre-workout supplements that deliver fast results. Next time you buy pre-workout check the ingredients.  
+<small> When consumed, you get paresthesia (tingles) usually the first time you take it similar to pre-workout. That's because Beta-Alanine is one of the few proven commodities in pre-workout supplements that deliver fast results. Next time you buy pre-workout check the ingredients.</small>
  
 Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 
-## Whey Protein
-
+## Whey Protein Isolate 
+<small> Whey proteins are highly bioavailable, are very quickly absorbed into the body, and have a high concentration of branched-chain amino acids (BCAAs) which are highly concentrated in muscle tissue, and are used to fuel working muscles and stimulate protein synthesis.[9]</small>
+<small>Whey protein isolate undergoes more processing compare to concentrate, which results in a higher protein content with less carbs, lactose and fat. Isolate is typically more expensive than whey concentrate.</small>
 
 <div id="amzn-assoc-ad-fa19bfe7-9e28-441e-b7f2-0939aa944c59"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fa19bfe7-9e28-441e-b7f2-0939aa944c59"></script>
+
++ <small>May Help Reduce Hunger </small>
++ <small>Excellent source of branched-chain amino acids </small>
++ <small>Boosts The Effects Of Resistance Training </small>
 
 
 ### REFERENCES
@@ -123,5 +128,7 @@ supplementation. Sports Medicine 18: 268–80.</small>
 <small>Ament, W., & Verkerke, G. J. (2009). Exercise and fatigue. Sports Medicine (Auckland, N.Z.), 39(5), 389–422.</small>
 
 <small>Hoffman JR, Landau G, Stout JR, et al. β-Alanine ingestion increases muscle carnosine content and combat specific performance in soldiers. Amino Acids. 2015;47(3):627-636. doi:10.1007/s00726-014-1896-7.</small>
+
+<small> Kimball Scott; Jefferson, LS (2006). "Signaling Pathways and Molecular Mechanisms through which Branched-Chain Amino Acids Mediate Translational Control of Protein Synthesis". Journal of Nutrition. 136 (1): 227S. PMID 16365087.</small>
 
 
