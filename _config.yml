@@ -6,7 +6,7 @@ meta_description: "Weekly articles"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/log.png'
 baseurl: 
-google_analytics: 'UA-134656098-2'
+google_analytics: 'UA-134656098-3'
 disqus: 'gonumero-com'
 mailchimp-list: ''
 include: ["_pages"]
