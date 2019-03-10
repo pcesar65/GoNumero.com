@@ -48,6 +48,7 @@ monthly. In addition, there was an upward trend present throughout the sample da
 any type of transformation, the variance of our original dataset is 2186.5. Since our dataset has a large
 variance as well as having an upward trend and seasonality. We can conclude that our time series needs to
 be transformed and differenced in order to make it stationary.</small>
+
 ![ACF and PACF]({{ site.baseurl }}/assets/images/forecast/2.jpg){:height="250px" width="500px"}{:class="image-centered"}
 
 
