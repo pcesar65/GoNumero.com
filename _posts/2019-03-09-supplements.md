@@ -109,7 +109,7 @@ Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 + <small>Excellent source of branched-chain amino acids </small>
 + <small>Boosts The Effects Of Resistance Training </small>
 
-No matter if your goal is to increase muscle, reduce body fat, or control hunger, whey can help and its the #1 choice for all body builders.  
+<small>No matter if your goal is to increase muscle, reduce body fat, or control hunger, whey can help and its the #1 choice for all body builders.</small>
 
 ### REFERENCES
 <small>Ally, A. and Park, G. 1992. Rapid-determination of creatine, phosphocreatine, purine-bases and nucleotides
