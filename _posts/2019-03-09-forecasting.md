@@ -68,6 +68,7 @@ form 0/0. That being the case, rewriting the Box-Cox formula gives us </small>
 <small>corresponding to a logarithmic transformation. We can see the seasonal fluctuations and trend in the logtransformed
 time series showing constancy over time. In addition, the log(Xt) transformation has smaller
 variance than Box-Cox(Xt) transformation.</small>
+
 ![two models Figure 3]({{ site.baseurl }}/assets/images/forecast/4.jpg){:height="450px" width="700px"}{:class="image-centered"}
 
 
@@ -78,6 +79,7 @@ it has the lowest variance compared to the Box-Cox transformation. The variance 
 is 0.247729 and was reduced to 0.0197 after using logarithmic transformation. Therefore, we picked
 logarithmic transformation as our best transformation.</small>
 ![Figure 4 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/5.jpg){:height="450px" width="700px"}{:class="image-centered"}
+
 <small>The slow decay of the autocorrelations in figure 4 is similar to the original dataset indicating that our
 data is still non-stationary. Thus, we remove the seasonality and trend in the next step.</small>
 
@@ -91,7 +93,7 @@ even more to 0.0002516346. Next, we remove the trend based on the deseasonalized
 
 ![Figure 5 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/6.jpg){:height="450px" width="700px"}{:class="image-centered"}
 
-Since the ACF still has a cyclical pattern, we need to remove trending by differencing by lag 1.
+<small>Since the ACF still has a cyclical pattern, we need to remove trending by differencing by lag 1.</small>
 
 
 <b>(2.3.2) De-Trending</b>
