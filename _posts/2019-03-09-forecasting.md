@@ -43,5 +43,10 @@ close to the true value in the original dataset from September 1974 to October 1
 decided to removed the last 14 data points in order to compare forecasting accuracy. On Figure 1 below you can see the fixed plot of the employment in Wisconsin with a sample size of 164 months in total.</small>
 
 ![intro forecast]({{ site.baseurl }}/assets/images/forecast/1.jpg){:height="300px" width="200px"}{:class="image-centered"}
+<small>As shown in our graph, there is an evident seasonality component because the dataset was collected
+monthly. In addition, there was an upward trend present throughout the sample dataset. Before applying
+any type of transformation, the variance of our original dataset is 2186.5. Since our dataset has a large
+variance as well as having an upward trend and seasonality. We can conclude that our time series needs to
+be transformed and differenced in order to make it stationary.</small>
 
 
