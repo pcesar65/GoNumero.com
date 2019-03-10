@@ -50,5 +50,17 @@ variance as well as having an upward trend and seasonality. We can conclude that
 be transformed and differenced in order to make it stationary.</small>
 
 ![ACF and PACF]({{ site.baseurl }}/assets/images/forecast/2.jpg){:height="550px" width="999px"}{:class="image-centered"}
+<small>Figure 2 shows a strong seasonality component of period 12 and an increasing trend in the data. The
+variability of the data changes with time. A visual inspection of the autocorrelation function plot indicates
+that the employment times series is nonstationary since the ACF decays very slowly. Suggesting some
+transformation needs to be done to the data to render it stationary before choosing and fitting an ARMA
+time series model.</small>
+<b>Box-Cox Transformation</b>
+<small>In order to make the data stationary and reduce the variance, we try a Box-Cox transformation. In Figure
+3: Log Likelihood Box-Transformation,  falls between 0 which makes the Box-Cox variable indeterminate
+form 0/0. That being the case, rewriting the Box-Cox formula gives us </small>
+![intro forecast]({{ site.baseurl }}/assets/images/forecast/3.jpg){:height="250px" width="500px"}{:class="image-centered"}
+
+
 
 
