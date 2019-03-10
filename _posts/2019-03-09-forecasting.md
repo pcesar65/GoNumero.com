@@ -38,7 +38,7 @@ ACF and PACF graphs. Comparing the significant coefficients, significant lags un
 confidence interval and AIC we decided the final model to be SARIMA(0, 1, 0)x(1, 1, 0)12. Throughout
 forecasting, we were able to plot a potential trajectory with 95% confidence for 14 months that approximate
 close to the true value in the original dataset from September 1974 to October 1975.</small>
-<center><b>(2)EXPLORATORY DATA ANALYSIS</b></center>
-Our original dataset consists of monthly employment data from January 1961 to October 1975 in which we
-decided to removed the last 14 data points in order to compare forecasting accuracy. On Figure 1 below you can see the fixed plot of the employment in Wisconsin with a sample size of 164 months in total.
+(2)<center><b>EXPLORATORY DATA ANALYSIS</b></center>
+<small>Our original dataset consists of monthly employment data from January 1961 to October 1975 in which we
+decided to removed the last 14 data points in order to compare forecasting accuracy. On Figure 1 below you can see the fixed plot of the employment in Wisconsin with a sample size of 164 months in total.</small>
 
