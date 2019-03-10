@@ -9,7 +9,7 @@ image: "https://22xmcq37bnw82iclyj35wony-wpengine.netdna-ssl.com/wp-content/uplo
 
 ## <center>Time Series Analysis: Wisconsin Employment</center>
 ## <center>1961-1975 </center>
-<small>Author: Amir O, Jesus Q, Cesar Ps, Even Q, Mohammad K</small>
+<center><small>Author: Amir O, Jesus Q, Cesar Ps, Even Q, Mohammad K</small></center>
 
 <b><center>ABSTRACT</center></b>
 <small>The goal for this project is to forecast a season (about 12 months) of the monthly employment
@@ -83,7 +83,7 @@ logarithmic transformation as our best transformation.</small>
 <small>The slow decay of the autocorrelations in figure 4 is similar to the original dataset indicating that our
 data is still non-stationary. Thus, we remove the seasonality and trend in the next step.</small>
 
-<b>(2.3) Differencing </b>
+# (2.3) Differencing
 
 <b>(2.3.1) De-Seasonalizing</b>
 
@@ -111,7 +111,7 @@ time series is stationary.</small>
 <small> We can further see Figure 6 above having no seasonality nor trend. The ACF and PACF of the
 log-transformed, deseasonalized, detrended data is shown in Model Building 3.1.</small>
 
-<b>(3) Model Building</b>
+# (3) Model Building
 
 <small>After removing the trend and seasonality to produce a stationary series, we can fit the data into a SARIMA
 model. A SARIMA model is illustrated by SARIMA(p, d, q)x(P,D,Q)s where p = non-seasonal AR order, d
@@ -211,8 +211,10 @@ Model2 = SARIMA(0, 1, 0)x(1, 1, 0)12. We will like to thank Professor Bapat for 
 <small>[1] Labour market, Source: Hipel and McLeod (1994), in file: wisconsi/trade, Description: Wisconsin
 employment time series, trade, Jan. 1961 – OCt. 1975 (https://datamarket.com/data/set/22l8/
 wisconsin-employment-time-series-trade-jan-1961-oct-1975#!ds=22l8&display=line)October 2018 </small>
+
 <small>[2] TheBalance, source: Types of https://www.thebalance.com/types-of-unemployment-3305522,Aug
 14,2018. Used November 2018 </small>
+
 <small>[3] Hyndsight, Plotting the Characteristics roots for ARIMA models(https://robjhyndman.com/
 hyndsight/arma-roots/).Dec2 018</small>
 
@@ -232,6 +234,7 @@ dat <- dat0[-c(165:178)]
 ts.plot(dat0, xlab = "years", ylab = "employment")
 acf(dat, lag.max = 150, main = "ACF")
 pacf(dat, lag.max = 150, main = "PACF")
+
 library(MASS)
 t = 1:length(dat)
 fit = lm(dat ~ t)
@@ -239,58 +242,74 @@ bcTransform = boxcox(dat ~ t, plotit = TRUE)
 lambda = bcTransform$x[which(bcTransform$y == max(bcTransform$y))]
 dat.bc = (1/lambda) * (dat^lambda - 1)
 title("Figure 3: Log-Likelihood of Box Cox transformation")
-ts.plot(dat.bc, main = "Figure 3: Box-Cox tranformed data", ylab = expression(Y[t]))
 
+ts.plot(dat.bc, main = "Figure 3: Box-Cox tranformed data", ylab = expression(Y[t]))
 var(dat) This is the variance of the normal plot
 # var(dat.bc) variance after the Box
+
 dat.log = log(dat)
 var(dat)
 var(dat.bc)
 var(dat.log)
+
 acf(dat.log, lag.max = 150, main = "ACF")
 pacf(dat.log, lag.max = 150, main = "PACF")
+
 # seasonalize: difference at lag 12
 y12 = diff(dat.log, 12)
 var(y12)
 acf(y12, lag.max = 150, main = "ACF")
 pacf(y12, lag.max = 150, main = "PACF")
+
 # detrend: difference at lag 1
+
 y1 = diff(y12, 1)
+
 ts.plot(y1, main = "De-trended Time Series", ylab = expression(nabla ~
 Y[t]))
 abline(h = 0, lty = 2)
+
 ts.plot(y1, main = "Figure 6: De-trended/seasonalized Time Series",
 ylab = expression(nabla^{
 12
 } ~ nabla ~ Y[t]))
 abline(h = 0, lty = 2)
+
 library(tseries)
 adf.test(y1, k = 12)
 acf(y1, lag.max = 150, main = "ACF")
 pacf(y1, lag.max = 150, main = "PACF")
 # with d = D = 1, P = 1, p = q = 0, Q = 1 we have the lowest
 # AIC selecting SARIMA(0,1,0)X(0,1,1) model.
+
 model_fit1 = arima(dat.log, order = c(0, 1, 0), seasonal = list(order = c(0,
 1, 1), period = 12), method = "ML", xreg = 1:length(dat.log))
 model_fit1
+
 # with d = D = 1, P = 0, p = 0, Q = 1, q = 0 we have the 1st
 # lowest AIC selecting SARIMA(0,1,0)x(0,1,1) model.
+
 model_fit2 = arima(dat.log, order = c(0, 1, 0), seasonal = list(order = c(1,
 1, 0), period = 12), method = "ML", xreg = 1:length(dat.log))
 model_fit2
+
 # with d = D = 1, P = 1, p = 0, Q = 1, q = 0 we have the 2nd
 # lowest AIC selecting SARIMA(0,1,0)x(1,1,1) model.
+
 model_fit3 = arima(dat.log, order = c(0, 1, 0), seasonal = list(order = c(1,
 1, 1), period = 12), method = "ML", xreg = 1:length(dat.log))
 model_fit3
+
 library(dse)
 library(forecast)
 library(ggplot2)
+
 fit <- Arima(dat.log, order = c(0, 1, 0), seasonal = list(order = c(0,
 1, 1), period = 12), xreg = 1:length(dat.log))
 # SARIMA(0,1,1)x(0,1,1) model roots
 autoplot(fit)
 autoplot(model_fit2)
+
 Box.test(residuals(model_fit2), type = "Ljung")
 Box.test(residuals(model_fit2), type = "Box-Pierce")
 shapiro.test(residuals(model_fit2))
@@ -299,10 +318,13 @@ qqnorm(residuals(model_fit2), main = "")
 qqline(residuals(model_fit2))
 hist(residuals(model_fit2), main = "")
 title("Figure 7: QQ Plot and Histogram", line = -1, outer = TRUE)
+
 Box.test(residuals(model_fit2), type = "Ljung")
 Box.test(residuals(model_fit2), type = "Box-Pierce")
 shapiro.test(residuals(model_fit2))
+
 op = par(mfrow = c(1, 2))
+
 # full view
 len <- length(model_fit2)
 dat_last14 <- dat0[165:178] # last 14 entries from time series data
@@ -321,6 +343,7 @@ lines(pred.se.upper, lty = 2, col = "steelblue")
 lines(pred.se.lower, lty = 2, col = "steelblue")
 # points((length(dat)+1):(length(dat)+14),dat_last14,
 # pch='*', col='black')
+
 # zoomed in view
 ts.plot(dat, main = "Figure 9: Wiscounsin employment data forecasted",
 xlim = c(length(dat) - 8, length(dat) + 14), ylim = c(320,
@@ -337,6 +360,8 @@ legend("bottomleft", c("forecasted data", "observed data"), bg = "aliceblue",
 pch = c(1, 8), col = c("red", "black"))
 
 ```
+
+©GoNumero
 
 
 
