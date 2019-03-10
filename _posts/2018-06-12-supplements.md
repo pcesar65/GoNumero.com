@@ -103,6 +103,8 @@ Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 
 <div id="amzn-assoc-ad-fa19bfe7-9e28-441e-b7f2-0939aa944c59"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fa19bfe7-9e28-441e-b7f2-0939aa944c59"></script>
 
+<small> I can't give a recommendation because all whey proteins are different. Depending on your purpose of diet, carb intake and/or muscle growth you will choose between whey protein concentrate or Isolate. 
+
 + <small>May Help Reduce Hunger </small>
 + <small>Excellent source of branched-chain amino acids </small>
 + <small>Boosts The Effects Of Resistance Training </small>
