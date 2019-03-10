@@ -137,7 +137,7 @@ significant coefficients and low AIC. </small>
 
 ![Figure 7 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/8.jpg){:height="250px" width="4500px"}{:class="image-centered"}
 
-<b> (3.3) Model Selection </b> 
+<b> (3.2) Model Selection </b> 
 
 <small> Based on our model building criteria, we select the best model for our forecast. We have three models
 Model 1 = SARIMA(0, 1, 0)x(0, 1, 1)12 , Model 2 = SARIMA(0, 1, 0)x(1, 1, 0)12 and Model 3 =
@@ -159,7 +159,7 @@ model 2 is invertible and casual. </small>
 
 ![Inverse Unit Circle]({{ site.baseurl }}/assets/images/forecast/10.jpg){:height="250px" width="500px"}{:class="image-centered"}
 
-## (3.4) Diagnotics 
+#### (3.4) Diagnotics 
 
 <b> (3.4.1) Normality </b>
 
