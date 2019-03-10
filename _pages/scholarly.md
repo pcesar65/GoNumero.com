@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scholarly
+title: Scholar
 permalink: /scholarly
 comments: false
 ---
