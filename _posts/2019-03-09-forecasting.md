@@ -50,7 +50,7 @@ any type of transformation, the variance of our original dataset is 2186.5. Sinc
 variance as well as having an upward trend and seasonality. We can conclude that our time series needs to
 be transformed and differenced in order to make it stationary.</small>
 
-![ACF and PACF]({{ site.baseurl }}/assets/images/forecast/2.jpg){:height="360px" width="750px"}{:class="image-centered"}
+![ACF and PACF]({{ site.baseurl }}/assets/images/forecast/2.jpg){:height="230px" width="450px"}{:class="image-centered"}
 <small>Figure 2 shows a strong seasonality component of period 12 and an increasing trend in the data. The
 variability of the data changes with time. A visual inspection of the autocorrelation function plot indicates
 that the employment times series is nonstationary since the ACF decays very slowly. Suggesting some
@@ -69,7 +69,7 @@ form 0/0. That being the case, rewriting the Box-Cox formula gives us </small>
 time series showing constancy over time. In addition, the log(Xt) transformation has smaller
 variance than Box-Cox(Xt) transformation.</small>
 
-![two models Figure 3]({{ site.baseurl }}/assets/images/forecast/4.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![two models Figure 3]({{ site.baseurl }}/assets/images/forecast/4.jpg){:height="250px" width="500px"}{:class="image-centered"}
 
 
 <b>(2.2.2) Log Transformation</b>
@@ -78,7 +78,7 @@ variance than Box-Cox(Xt) transformation.</small>
 it has the lowest variance compared to the Box-Cox transformation. The variance for the box-cox transformation
 is 0.247729 and was reduced to 0.0197 after using logarithmic transformation. Therefore, we picked
 logarithmic transformation as our best transformation.</small>
-![Figure 4 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/5.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![Figure 4 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/5.jpg){:height="250px" width="600px"}{:class="image-centered"}
 
 <small>The slow decay of the autocorrelations in figure 4 is similar to the original dataset indicating that our
 data is still non-stationary. Thus, we remove the seasonality and trend in the next step.</small>
@@ -106,7 +106,7 @@ hypothesis test. Null Hypothesis is that Xt is non-stationary and the alternativ
 The test resulted in a significant p-value of 0.01951, so we reject the null hypothesis and conclude that our
 time series is stationary.</small>
 
-![Figure 6 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/7.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![Figure 6 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/7.jpg){:height="250px" width="600px"}{:class="image-centered"}
 
 <small> We can further see Figure 6 above having no seasonality nor trend. The ACF and PACF of the
 log-transformed, deseasonalized, detrended data is shown in Model Building 3.1.</small>
@@ -135,7 +135,7 @@ In order to verify our assumption, we build three models based on P = 1 or 0 and
 significant coefficients and low AIC. </small>
 
 
-![Figure 7 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/8.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![Figure 7 ACF and PACF]({{ site.baseurl }}/assets/images/forecast/8.jpg){:height="250px" width="4500px"}{:class="image-centered"}
 
 <b> (3.3) Model Selection </b> 
 
@@ -144,7 +144,7 @@ Model 1 = SARIMA(0, 1, 0)x(0, 1, 1)12 , Model 2 = SARIMA(0, 1, 0)x(1, 1, 0)12 an
 SARIMA(0, 1, 0)x(1, 1, 1)12. Of these possible models we identify which model with the lowest AICs and
 significant coefficients: coefficients whose absolute value is greater than their standard error values.</small>
 
-![chart]({{ site.baseurl }}/assets/images/forecast/9.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![chart]({{ site.baseurl }}/assets/images/forecast/9.jpg){:height="250px" width="4000px"}{:class="image-centered"}
 
 <small> The only model with significant coefficients is Model 2 based on the table above with d = D = 1, P = 0,
 p = 0, Q = 1, q = 0 and the second lowest AIC is P = 1 and Q = 1.</small>
@@ -157,7 +157,7 @@ apparent that the inverse roots lie within the unit circle for both models. We t
 all the coefficients that are less than 1 which means they are outside of the unit circle. Thus, we conclude
 model 2 is invertible and casual. </small> 
 
-![Inverse Unit Circle]({{ site.baseurl }}/assets/images/forecast/10.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![Inverse Unit Circle]({{ site.baseurl }}/assets/images/forecast/10.jpg){:height="250px" width="500px"}{:class="image-centered"}
 
 ## (3.4) Diagnotics 
 
@@ -170,7 +170,7 @@ it is observed that our histogram doesn’t present outliers or skewness in the 
 in the form of tails in the graph.</small>
 
 
-![Figure 7]({{ site.baseurl }}/assets/images/forecast/11.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![Figure 7]({{ site.baseurl }}/assets/images/forecast/11.jpg){:height="250px" width="450px"}{:class="image-centered"}
 
 <b> (3.4.2) Independence </b> 
 
@@ -178,7 +178,7 @@ in the form of tails in the graph.</small>
 and Ljung-Box test. As shown above, the p-values were calculated to be 0.6192 and 0.6224. Therefore, we
 fail to reject the null hypothesis and say with confidence that our model is normal since both p-values  ￿
 =.05. </small>
-![chart]({{ site.baseurl }}/assets/images/forecast/12.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![chart]({{ site.baseurl }}/assets/images/forecast/12.jpg){:height="250px" width="450px"}{:class="image-centered"}
 
 ## FORECASTING
 
@@ -188,12 +188,12 @@ of red circles in figure 8 from September 1974 to October 1975, along with the 9
 these forecasted values. We cut the last 14 months as our testing data for comparison with our forecasted
 values. </small>
 
-![figure 8]({{ site.baseurl }}/assets/images/forecast/13.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![figure 8]({{ site.baseurl }}/assets/images/forecast/13.jpg){:height="250px" width="600px"}{:class="image-centered"}
 <small>This final model captures the overall trend and seasonality of the data. Figure 9 shows a zoomed-in view
 of the forecasted values resembling the obvious patterns of our original data. The observed and forecasted
 values are very close throughout the season which proves the success of our final model.</small>
 
-![figure 9]({{ site.baseurl }}/assets/images/forecast/14.jpg){:height="450px" width="700px"}{:class="image-centered"}
+![figure 9]({{ site.baseurl }}/assets/images/forecast/14.jpg){:height="250px" width="500px"}{:class="image-centered"}
 
 ## Conclusion 
 <small>Given the monthly data from January 1961 to August 1974, we were able to predict with a 95% confidence
