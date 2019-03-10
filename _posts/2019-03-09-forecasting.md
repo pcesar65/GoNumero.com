@@ -3,7 +3,7 @@ layout: post
 title:  "Time Series Analysis: Wisconsin Employment"
 author: cesar
 categories: [ scholarly ]
-hidden: true
+hidden: false
 image: "https://22xmcq37bnw82iclyj35wony-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/sales-forecasting-metrics-1024x768.jpg"
 ---
 
