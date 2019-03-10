@@ -111,7 +111,7 @@ Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 
 <small>No matter if your goal is to increase muscle, reduce body fat, or control hunger, whey can help and its the #1 choice for all body builders.</small>
 
-### REFERENCES
+# REFERENCES
 <small>Ally, A. and Park, G. 1992. Rapid-determination of creatine, phosphocreatine, purine-bases and nucleotides
 (Atp, Adp, Amp, Gtp, Gdp) in heart biopsies by gradient ion-pair reversed-phase liquid-chromatography.
 Journal of Chromatography-Biomedical Applications 575: 19–27.</small>
