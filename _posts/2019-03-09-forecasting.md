@@ -64,6 +64,10 @@ form 0/0. That being the case, rewriting the Box-Cox formula gives us </small>
 
 ![formula]({{ site.baseurl }}/assets/images/forecast/3.jpg){:height="50px" width="100px"}{:class="image-centered"}
 
+<small>corresponding to a logarithmic transformation. We can see the seasonal fluctuations and trend in the logtransformed
+time series showing constancy over time. In addition, the log(Xt) transformation has smaller
+variance than Box-Cox(Xt) transformation.</small>
+
 
 
 
