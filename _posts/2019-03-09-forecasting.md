@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Time Series Analysis: Wisconsin Employment"
-author: cesar
+author: Amir O, Jesus Q, Cesar Ps, Even Q, Mohammad K
 categories: [ scholarly ]
 hidden: false
 image: "https://22xmcq37bnw82iclyj35wony-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/sales-forecasting-metrics-1024x768.jpg"
@@ -42,7 +42,7 @@ close to the true value in the original dataset from September 1974 to October 1
 <small>Our original dataset consists of monthly employment data from January 1961 to October 1975 in which we
 decided to removed the last 14 data points in order to compare forecasting accuracy. On Figure 1 below you can see the fixed plot of the employment in Wisconsin with a sample size of 164 months in total.</small>
 
-![intro forecast]({{ site.baseurl }}/assets/images/forecast/1.jpg){:height="250px" width="500px"}{:class="image-centered"}
+![intro forecast]({{ site.baseurl }}/assets/images/forecast/1.jpg){:height="150px" width="450px"}{:class="image-centered"}
 <small>As shown in our graph, there is an evident seasonality component because the dataset was collected
 monthly. In addition, there was an upward trend present throughout the sample dataset. Before applying
 any type of transformation, the variance of our original dataset is 2186.5. Since our dataset has a large
@@ -62,7 +62,7 @@ time series model.</small>
 3: Log Likelihood Box-Transformation,  falls between 0 which makes the Box-Cox variable indeterminate
 form 0/0. That being the case, rewriting the Box-Cox formula gives us </small>
 
-![formula]({{ site.baseurl }}/assets/images/forecast/3.jpg){:height="100px" width="300px"}{:class="image-centered"}
+![formula]({{ site.baseurl }}/assets/images/forecast/3.jpg){:height="50px" width="100px"}{:class="image-centered"}
 
 
 
