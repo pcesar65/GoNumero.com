@@ -10,11 +10,11 @@ hidden: true
 image: "https://nobullnutrition.co/wp-content/uploads/2016/05/DSC_5937.jpg"
 ---
 
-<p><small>People usually get discourage at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thumb, weight loss is generally 75 percent diet and 25 percent exercise. </small></p>
+<p><small>People usually get discouraged at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thumb, weight loss is generally 75 percent diet and 25 percent exercise. </small></p>
 
 <p><small>In recent years, much attention has been paid to the search of natural substances in foods that can be
-benecial to the human body in preventing or treating one or more diseases or improving its physiological
-performance.This research has been taken from the University of California Database and UCSB athletes. This are our recommendations for a faster and healthy aesthetic body. </small></p>
+beneficial to the human body in preventing or treating one or more diseases or improving its physiological
+performance.This research has been taken from the University of California Database and UCSB athletes. These are our recommendations for a faster and healthier aesthetic body. </small></p>
 
 
 ## Creatine Monohydrate 
