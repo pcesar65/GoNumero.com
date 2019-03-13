@@ -5,7 +5,7 @@ author: cesar
 categories: [ politics ]
 image: assets/images/16.jpg
 ---
-<small> The fight with Imperial beach and Trumps Wall</small>
+<small> The fight between the massive Imperial beach pollution and Trumps $6 Billion border Wall</small>
 
 <small>   After the bracero program in the 1960’s maquiladoras or export assembly plants have been the cornerstones of Mexico’s strategy to attract direct investment and boost exports. Due to the opportunity cost of higher profits and corporate greed, economics has replaced ethics on the rise of social and environmental issues. The purpose of the maquiladoras was to absorb many of the Mexican workers returning from the United States. The very existence of maquiladoras till this day is associated with the “pull theory”  and idea of special economic zones that offer advantages business conditions. These special economic zones attract investors, increase employment, and stimulate exports, all of which stimulates economic growth in a given area. However, many Americans and Mexican residents have been living in poor conditions and environments with minimum national level addressing the pollution and toxins from the maquiladoras causing “aguas negras”, inadequate drainage sewer system for maquiladoras, residential protest and government ignorance in the surrounding areas. </small>
 
