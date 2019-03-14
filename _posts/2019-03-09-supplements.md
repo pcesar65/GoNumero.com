@@ -33,6 +33,8 @@ presenting different diseases. </small></p>
 <b>Note:</b>
 ><p><small>The ingestion of Cr together with other food supplements can promote and enhance its effect as ergogenic dietary complement. It has been described that the ingestion of carbohydrate with Cr enhances intramuscular Cr uptake and glycogen deposition (Green et¡al. 1996a,b),whereas ingestion of glucose and sodium with Cr would theoretically provide additional ergogenic effect. </small></p>
 
+{% include advertisements.html %} 
+
 <p><small> Supplementation of creatine monohydrate in the diet increases Cr and PCr cellular levels in muscle tissue enhancing muscular strength. The most obvious effects of Cr are observed after several weeks of supplementation in combination with a resistance exercise program.(6/g a day)</small></p>
 
 Recommendation: <a href="https://amzn.to/2HmyLNh">Creatine Monohydrate Powder Micronized</a>
@@ -133,5 +135,8 @@ supplementation. Sports Medicine 18: 268–80.</small>
 <small>Hoffman JR, Landau G, Stout JR, et al. β-Alanine ingestion increases muscle carnosine content and combat specific performance in soldiers. Amino Acids. 2015;47(3):627-636. doi:10.1007/s00726-014-1896-7.</small>
 
 <small> Kimball Scott; Jefferson, LS (2006). "Signaling Pathways and Molecular Mechanisms through which Branched-Chain Amino Acids Mediate Translational Control of Protein Synthesis". Journal of Nutrition. 136 (1): 227S. PMID 16365087.</small>
+
+
+{% include advertisements.html %} 
 
 
