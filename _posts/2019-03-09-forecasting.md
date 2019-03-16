@@ -71,6 +71,7 @@ variance than Box-Cox(Xt) transformation.</small>
 
 ![two models Figure 3]({{ site.baseurl }}/assets/images/forecast/4.jpg){:height="250px" width="500px"}{:class="image-centered"}
 
+{% include advertisements.html %}
 
 <b>(2.2.2) Log Transformation</b>
 
@@ -179,6 +180,8 @@ and Ljung-Box test. As shown above, the p-values were calculated to be 0.6192 an
 fail to reject the null hypothesis and say with confidence that our model is normal since both p-values  ￿
 =.05. </small>
 ![chart]({{ site.baseurl }}/assets/images/forecast/12.jpg){:height="250px" width="450px"}{:class="image-centered"}
+
+{% include advertisements.html %}
 
 ## FORECASTING
 
