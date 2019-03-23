@@ -4,7 +4,6 @@ title:  "Candle Sticks"
 author: cesar
 categories: [ finance ]
 image: assets/images/12.jpg
-featured: true
 hidden: true
 ---
 

@@ -51,7 +51,7 @@ ga('send', 'pageview');
     
 <!-- Begin Menu Navigation
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+<nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark fixed-top mediumnavigation nav-down">
     
     <div class="container pr-0">    
     
@@ -103,21 +103,26 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/fitness">Health</a>
                 </li>
+
+<li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Finance
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="{{ site.baseurl }}/finance">Stocks</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Financial literacy </a>
+        </div>
+      </li>
+
+ 
 		    
-		{% if page.url == "/finance.html" %}
+		{% if page.url == "/scholar.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/finance">Finance</a>
-                </li>
-		    
-		{% if page.url == "/scholarly.html" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/scholarly">Scholar</a>
+                <a class="nav-link" href="{{ site.baseurl }}/scholar">Scholar</a>
                 </li>
 		    
 		{% if page.url == "/about.html" %}
