@@ -6,7 +6,7 @@ categories: [ scholar ]
 archieve: true
 featured: true
 tag: fitness
-hidden: false
+hidden: true
 image: assets/images/adrian/cover1.jpg
 ---
 
