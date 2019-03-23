@@ -99,6 +99,8 @@ Recommendation: <a href="https://amzn.to/2SPjMO3">BulkSupplements L-Carnitine Po
  
 Recommendation: <a href="https://amzn.to/2EVQmKI">Beta Alanine</a>
 
+{% include advertisements.html %} 
+
 ## Whey Protein Isolate 
 <small> Whey proteins are highly bioavailable, are very quickly absorbed into the body, and have a high concentration of branched-chain amino acids (BCAAs) which are highly concentrated in muscle tissue, and are used to fuel working muscles and stimulate protein synthesis.[9]</small>
 <small>Whey protein isolate undergoes more processing compare to concentrate, which results in a higher protein content with less carbs, lactose and fat. Isolate is typically more expensive than whey concentrate.</small>
