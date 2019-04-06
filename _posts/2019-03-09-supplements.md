@@ -12,11 +12,11 @@ image: "https://nobullnutrition.co/wp-content/uploads/2016/05/DSC_5937.jpg"
 
 <p><small>People usually get discouraged at the gym when they see no improvements whatsoever. These factors can be lack of sleep, vitamins, protein, carbs, fat intake or even your workout program. If you don’t eat enough, your body can’t use calories for repair and growth.  As a rule of thumb, weight loss is generally 75 percent diet and 25 percent exercise. </small></p>
 
+{% include advertisements.html %} 
+
 <p><small>In recent years, much attention has been paid to the search of natural substances in foods that can be
 beneficial to the human body in preventing or treating one or more diseases or improving its physiological
 performance.This research has been taken from the University of California Database and UCSB athletes. These are our recommendations for a faster and healthier aesthetic body. </small></p>
-
-{% include advertisements.html %} 
 
 
 ## Creatine Monohydrate 
@@ -29,6 +29,8 @@ recent  findings have indicated that Cr supplementation has a therapeutic role i
 characterized by atrophic conditions, weakness, and metabolic disturbances. Thus, Cr is an emerging
 nutritional supplement used not only by athletes, but also by elderly people as well as aged patients
 presenting different diseases. </small></p>
+
+{% include advertisements.html %} 
 
 <div id="amzn-assoc-ad-a7e4ebc7-eafd-4f1d-b287-846746261ff7"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=a7e4ebc7-eafd-4f1d-b287-846746261ff7"></script>
 
@@ -140,6 +142,6 @@ supplementation. Sports Medicine 18: 268–80.</small>
 <small> Kimball Scott; Jefferson, LS (2006). "Signaling Pathways and Molecular Mechanisms through which Branched-Chain Amino Acids Mediate Translational Control of Protein Synthesis". Journal of Nutrition. 136 (1): 227S. PMID 16365087.</small>
 
 
-{% include advertisements.html %} 
+
 
 
